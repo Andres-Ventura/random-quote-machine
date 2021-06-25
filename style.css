@@ -8,4 +8,5 @@ body {
 }
 #new-quote {
   margin: 20px;
+  outline: transparent;
 }
